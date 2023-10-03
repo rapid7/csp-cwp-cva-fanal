@@ -1,0 +1,15 @@
+---
+info:
+  title: Csp Cwp Cva Fanal
+  description: Static Analysis Library for Containers
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/csp-cwp-cva-fanal
+  x-cortex-tag: csp-cwp-cva-fanal
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: insightcloudsec
+openapi: 3.0.1
+servers:
+- url: "/"
