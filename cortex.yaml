@@ -9,7 +9,7 @@ info:
   x-cortex-tag: csp-cwp-cva-fanal
   x-cortex-type: service
   x-cortex-domain-parents:
-  - tag: insightcloudsec
+  - tag: ics-cwp
 openapi: 3.0.1
 servers:
 - url: "/"
